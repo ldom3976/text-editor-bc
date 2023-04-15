@@ -1,1 +1,1 @@
-# text-editor-bc
+# Text Editor Starter Code
